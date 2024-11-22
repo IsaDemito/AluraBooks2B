@@ -16,7 +16,7 @@
 .topicos-item{
     margin: 2em 0.5em;
 }
-.topicos-lnk{
+.topicos-link{
     background-color: var(--laranja);
     padding: 1em;
     color: var(--branco);
